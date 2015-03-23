@@ -109,7 +109,7 @@
         <!-- 在百度开发者中心查询应用的API Key -->
         <meta-data
             android:name="api_key"
-            android:value="tzHV2V9VqxfyQhdXjj4N43hv" />
+            android:value="你的百度KEY" />
     </application>
 
 </manifest>
