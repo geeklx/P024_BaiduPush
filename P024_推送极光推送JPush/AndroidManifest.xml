@@ -129,7 +129,7 @@
         <!-- Required. AppKey copied from Portal -->
         <meta-data
             android:name="JPUSH_APPKEY"
-            android:value="4a1d18889fec166d64f1f6e5" />
+            android:value="你的极光KEY" />
     </application>
 
 </manifest>
